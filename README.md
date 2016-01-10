@@ -28,3 +28,4 @@ Mat lab_img,img,img_Result, r_img, g_img,b_img;
 	
 エラーが出ないし、カメラも読み込み中で動かない。
 とりあえず現状のプログラムコード。
+Header.hの中のopencv_core以下をプロパティの「リンカー」｢入力」に書き込まんといかん
